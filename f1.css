@@ -1,0 +1,14 @@
+body
+{
+	background-color:lightgrey;
+	border-style: double;
+	border-width: medium;
+	border-color: maroon;
+	border-top-style:dotted;
+	border-right-style:solid;
+	border-bottom-style:dotted;
+	border-left-style:solid;
+	margin: 100px 100px 100px 100px;
+}
+
+
