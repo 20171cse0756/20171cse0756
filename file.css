@@ -1,0 +1,20 @@
+body
+{
+	background-color:lightblue;
+	background-image: url("/home/Sem6B12/Documents/20171cse0756/HTML/picz.jpeg"); 
+	background-size:60% 60%;        
+	background-position: center; 
+        background-repeat: no-repeat; 
+        background-attachment: fixed;
+	text-decoration:underline;
+	font-stretch:expanded;
+	text-transform:capitalize;
+	text-align:center;
+	text-shadow:4px 4px 8px blue;
+	border: 4px solid black;
+}
+
+h1{
+	color:blue;
+}
+	
